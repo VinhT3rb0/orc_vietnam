@@ -1,0 +1,10 @@
+data/
+*.zip
+*.jpg
+*.png
+*.pt
+*.h5
+*.csv
+
+
+archive/labels/*.txt
